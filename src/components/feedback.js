@@ -3,6 +3,8 @@ import { connect } from 'react-redux';
 
 import './feedback.css';
 
+
+
 export function Feedback(props) {
   /** 
    * Below, we'll the guessCount to generate a key so that React treats the feedback message 
